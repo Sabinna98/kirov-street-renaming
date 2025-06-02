@@ -32,6 +32,10 @@ The main exhibit is presented through an interactive map using StoryMapJS:
 
 This visualization shows the symbolic logic of renaming in central Kirov across three historical periods: pre-Soviet, Soviet, and post-Soviet.
 
+**## Dataset**
+Dataset on Google Sheets: 
+  🔗 https://docs.google.com/spreadsheets/d/1k1yLKuA1qmp4mm8zesMuEkR7dIynqVkYHHaXBKB5tt8/edit?usp=sharing  
+
 
 ## License
 
