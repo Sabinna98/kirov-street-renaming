@@ -16,12 +16,19 @@ This project investigates how the urban identity of Kirov (formerly Vyatka) has 
 
 The project was created as part of the *Digital and Public Humanities* Master’s program at Ca’ Foscari University of Venice.
 
-## Contents
+## Date
+
+19.05.2025
+
+## Format
 
 - `dataset.csv` — structured data on street names: old name, new name, year of change, ideological category, coordinates
 - `visualizations/` — charts created with RawGraphs
 - `storytelling/` — StoryMapJS links (see below)
+  
+## Language
 
+English, Russian
 
 ## Tools Used
 
@@ -46,8 +53,11 @@ This visualization shows the symbolic logic of renaming in central Kirov across 
 [Dataset on Google Sheets]
   🔗 https://docs.google.com/spreadsheets/d/1k1yLKuA1qmp4mm8zesMuEkR7dIynqVkYHHaXBKB5tt8/edit?usp=sharing  
 
+## Source
 
-## License
+PastVu, Wikipedia, local websites.
+
+## Rights
 
 This dataset is released under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/) license.  
 You are free to use, modify, and distribute the content without any restrictions.
