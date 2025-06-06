@@ -1,6 +1,15 @@
 # kirov-street-renaming
 Dataset and visualizations for a digital history project on Kirov’s street renaming.
 
+# Title
+A Digital History of Street Renaming in Kirov (Vyatka).
+
+## Creator
+
+Sabina Rzaeva  
+Ca’ Foscari University of Venice  
+Digital and Public Humanities (MA)
+
 ## Description
 
 This project investigates how the urban identity of Kirov (formerly Vyatka) has been shaped through waves of street renaming. It explores the ideological shifts visible in toponymy, from the imperial and ecclesiastical past to the Soviet period and into the post-Soviet memory politics.
@@ -43,8 +52,4 @@ This visualization shows the symbolic logic of renaming in central Kirov across 
 This dataset is released under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/) license.  
 You are free to use, modify, and distribute the content without any restrictions.
 
-## Author
 
-Sabina Rzaeva  
-Ca’ Foscari University of Venice  
-Digital and Public Humanities (MA)
